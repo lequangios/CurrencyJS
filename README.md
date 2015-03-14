@@ -28,7 +28,7 @@ Create HTML option tag list all currency, update new currency from ISO website
 
 ```
 
-Note : if you want to see the country name just set the last para to true, the result will like :
+###### Note : if you want to see the country name just set the last para to true, the result will like :
 
 ```
 <select class="currency">
